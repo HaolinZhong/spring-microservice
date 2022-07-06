@@ -1,0 +1,6 @@
+[submodule "brewery-service"]
+	path = brewery-service
+	url = https://github.com/HaolinZhong/brewery-service.git
+[submodule "brewery-client"]
+	path = brewery-client
+	url = https://github.com/HaolinZhong/brewery-client.git
